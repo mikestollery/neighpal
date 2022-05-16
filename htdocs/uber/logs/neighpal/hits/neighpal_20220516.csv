@@ -1,9 +1,0 @@
-19:52:19,127.0.0.1,,http://localhost/neighpal/cgi-bin/neighpal.cgi?race=open&fname=20140922__0900.dat,page=logout,mike,1
-19:52:21,127.0.0.1,,http://localhost/neighpal/cgi-bin/neighpal.cgi?page=logout,page=login,,
-19:52:27,127.0.0.1,,http://localhost/neighpal/cgi-bin/neighpal.cgi?page=login,page=login,,
-19:52:31,127.0.0.1,,http://localhost/neighpal/cgi-bin/neighpal.cgi?page=login,race=open&fname=20140922__0900.dat,mike,1
-19:52:34,127.0.0.1,,http://localhost/neighpal/cgi-bin/neighpal.cgi?race=open&fname=20140922__0900.dat,page=logout,mike,1
-19:52:36,127.0.0.1,,http://localhost/neighpal/cgi-bin/neighpal.cgi?page=logout,page=signup,,
-19:53:02,127.0.0.1,,http://localhost/neighpal/cgi-bin/neighpal.cgi?page=signup,page=signup,,
-19:55:32,127.0.0.1,,http://localhost/neighpal/cgi-bin/neighpal.cgi?page=signup,page=signup,,
-19:55:37,127.0.0.1,,http://localhost/neighpal/cgi-bin/neighpal.cgi?page=signup,race=open&fname=20140922__0900.dat,spod,1
