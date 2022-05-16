@@ -362,7 +362,6 @@ sub write_login_file
 
     # Write user's account data to file
     my $loginfile = "${LOGINROOT}/$$acc_ref{'USERNAME'}/login.dat";
-    $loginfile = "login.tmp";
     my $value;
     open(OUTF, ">$loginfile") or $message = "Cannot save login file - $loginfile";
     if ($message eq "")
