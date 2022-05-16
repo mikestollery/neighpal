@@ -117,10 +117,10 @@ sub set_globals
         
         #$IMGROOT = "/Users/mike/Sites/stol.uk/neighpal/htdocs/uber/images/neighpal";
         #$IMGROOT = "/uber/images";
-        $IMGROOT = "../htdocs/uber/images/neighpal";
+        $IMGROOT = "../htdocs/uber/images";
                 
         # TODO: DATAROOT not acorrectly set for localhost - BUG
-        $DATAROOT = "../htdocs/uber";
+        $DATAROOT = "$ENV{DOCUMENT_ROOT}/neighpal/htdocs/uber";
         $SENDMAIL = "/usr/sbin/sendmail -t";
     }
     elsif (($HTTP_HOST =~ /ubervoid.com$/)
@@ -362,6 +362,7 @@ sub write_login_file
 
     # Write user's account data to file
     my $loginfile = "${LOGINROOT}/$$acc_ref{'USERNAME'}/login.dat";
+    $loginfile = "login.tmp";
     my $value;
     open(OUTF, ">$loginfile") or $message = "Cannot save login file - $loginfile";
     if ($message eq "")

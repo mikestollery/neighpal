@@ -1,0 +1,180 @@
+19:26:31 127.0.0.1  * QUERY_STRING page=login
+19:26:31 127.0.0.1  previous_page()
+19:26:36 127.0.0.1  * QUERY_STRING page=login
+19:26:36 127.0.0.1  read_login_file(username=mike)
+19:26:36 127.0.0.1 mike Logged in.
+19:26:36 127.0.0.1 mike * QUERY_STRING page=login
+19:26:36 127.0.0.1 mike WARNING: Cannot load labels file: /Users/mike/lab/sites/neighpal/htdocs/uber/users/neighpal//static/labels.dat - using default labels
+19:26:36 127.0.0.1 mike Loaded 0 labels from labels file: /Users/mike/lab/sites/neighpal/htdocs/uber/users/neighpal//static/labels.dat
+19:26:36 127.0.0.1 mike Loaded 1 race indexes from race index file: /Users/mike/lab/sites/neighpal/htdocs/uber/users/neighpal//static/race_index.dat
+19:26:36 127.0.0.1 mike Loaded 2 bookies from bookies file: /Users/mike/lab/sites/neighpal/htdocs/uber/users/neighpal//static/bookies.dat
+19:26:36 127.0.0.1 mike Processing parameters...
+19:26:36 127.0.0.1 mike Read 4 parameters.
+19:26:36 127.0.0.1 mike Generating Index page
+19:26:36 127.0.0.1 mike Done.
+19:33:47 127.0.0.1 mike * QUERY_STRING page=logout
+19:33:47 127.0.0.1 mike read_login_file(username=)
+19:33:47 127.0.0.1 mike In session
+19:33:47 127.0.0.1 mike Logged out.
+19:33:47 127.0.0.1  * QUERY_STRING page=logout
+19:33:47 127.0.0.1  Generating Login page
+19:33:47 127.0.0.1  Done.
+19:33:52 127.0.0.1  * QUERY_STRING page=login
+19:33:52 127.0.0.1  previous_page()
+19:33:59 127.0.0.1  * QUERY_STRING page=login
+19:33:59 127.0.0.1  read_login_file(username=mike)
+19:33:59 127.0.0.1 mike Logged in.
+19:33:59 127.0.0.1 mike * QUERY_STRING page=login
+19:33:59 127.0.0.1 mike WARNING: Cannot load labels file: /Users/mike/web_home/neighpal/htdocs/uber/users/neighpal//static/labels.dat - using default labels
+19:33:59 127.0.0.1 mike Loaded 0 labels from labels file: /Users/mike/web_home/neighpal/htdocs/uber/users/neighpal//static/labels.dat
+19:33:59 127.0.0.1 mike Loaded 1 race indexes from race index file: /Users/mike/web_home/neighpal/htdocs/uber/users/neighpal//static/race_index.dat
+19:33:59 127.0.0.1 mike Loaded 2 bookies from bookies file: /Users/mike/web_home/neighpal/htdocs/uber/users/neighpal//static/bookies.dat
+19:33:59 127.0.0.1 mike Processing parameters...
+19:33:59 127.0.0.1 mike Read 4 parameters.
+19:33:59 127.0.0.1 mike Generating Index page
+19:33:59 127.0.0.1 mike Done.
+19:34:10 127.0.0.1 mike * QUERY_STRING race=open&fname=20140922__0900.dat
+19:34:10 127.0.0.1 mike read_login_file(username=)
+19:34:10 127.0.0.1 mike In session
+19:34:10 127.0.0.1 mike WARNING: Cannot load labels file: /Users/mike/web_home/neighpal/htdocs/uber/users/neighpal//static/labels.dat - using default labels
+19:34:10 127.0.0.1 mike Loaded 0 labels from labels file: /Users/mike/web_home/neighpal/htdocs/uber/users/neighpal//static/labels.dat
+19:34:10 127.0.0.1 mike Loaded 1 race indexes from race index file: /Users/mike/web_home/neighpal/htdocs/uber/users/neighpal//static/race_index.dat
+19:34:10 127.0.0.1 mike Loaded 2 bookies from bookies file: /Users/mike/web_home/neighpal/htdocs/uber/users/neighpal//static/bookies.dat
+19:34:10 127.0.0.1 mike Processing parameters...
+19:34:10 127.0.0.1 mike Read 2 parameters.
+19:34:10 127.0.0.1 mike Clicked link: Open (on Index page)
+19:34:10 127.0.0.1 mike Added new bet for [1] Neddie
+19:34:10 127.0.0.1 mike Added new bet for [2] Blackie
+19:34:10 127.0.0.1 mike Added new bet for [2] Blackie
+19:34:10 127.0.0.1 mike Added new bet for [3] Dobbin
+19:34:10 127.0.0.1 mike Added new bet for [4] Loser
+19:34:10 127.0.0.1 mike Loaded 5 bets from race file: /Users/mike/web_home/neighpal/htdocs/uber/users/neighpal//races/20140922__0900.dat
+19:34:10 127.0.0.1 mike attributes=20140922,,0900,New Race,
+19:34:10 127.0.0.1 mike Number of bets: 5
+19:34:10 127.0.0.1 mike Performing calculations on 5 bets.
+19:34:10 127.0.0.1 mike Finished performing calculations on 5 bets.
+19:34:10 127.0.0.1 mike Generating Betting page.
+19:34:10 127.0.0.1 mike Saved 5 bets to race file: /Users/mike/web_home/neighpal/htdocs/uber/users/neighpal//races/20140922__0900.dat
+19:34:10 127.0.0.1 mike Done.
+19:34:34 127.0.0.1 mike * QUERY_STRING race=open&fname=20140922__0900.dat
+19:34:34 127.0.0.1 mike read_login_file(username=)
+19:34:34 127.0.0.1 mike In session
+19:34:34 127.0.0.1 mike WARNING: Cannot load labels file: /Users/mike/web_home/neighpal/htdocs/uber/users/neighpal//static/labels.dat - using default labels
+19:34:34 127.0.0.1 mike Loaded 0 labels from labels file: /Users/mike/web_home/neighpal/htdocs/uber/users/neighpal//static/labels.dat
+19:34:34 127.0.0.1 mike Loaded 1 race indexes from race index file: /Users/mike/web_home/neighpal/htdocs/uber/users/neighpal//static/race_index.dat
+19:34:34 127.0.0.1 mike Loaded 2 bookies from bookies file: /Users/mike/web_home/neighpal/htdocs/uber/users/neighpal//static/bookies.dat
+19:34:34 127.0.0.1 mike Processing parameters...
+19:34:34 127.0.0.1 mike Read 59 parameters.
+19:34:34 127.0.0.1 mike attributes=20140922,,0900,New Race,
+19:34:34 127.0.0.1 mike Number of bets: 5
+19:34:34 127.0.0.1 mike Performing calculations on 5 bets.
+19:34:34 127.0.0.1 mike Finished performing calculations on 5 bets.
+19:34:34 127.0.0.1 mike Generating Betting page.
+19:34:34 127.0.0.1 mike Saved 5 bets to race file: /Users/mike/web_home/neighpal/htdocs/uber/users/neighpal//races/20140922__0900.dat
+19:34:34 127.0.0.1 mike Done.
+19:34:36 127.0.0.1 mike * QUERY_STRING race=open&fname=20140922__0900.dat
+19:34:36 127.0.0.1 mike read_login_file(username=)
+19:34:36 127.0.0.1 mike In session
+19:34:36 127.0.0.1 mike WARNING: Cannot load labels file: /Users/mike/web_home/neighpal/htdocs/uber/users/neighpal//static/labels.dat - using default labels
+19:34:36 127.0.0.1 mike Loaded 0 labels from labels file: /Users/mike/web_home/neighpal/htdocs/uber/users/neighpal//static/labels.dat
+19:34:36 127.0.0.1 mike Loaded 1 race indexes from race index file: /Users/mike/web_home/neighpal/htdocs/uber/users/neighpal//static/race_index.dat
+19:34:36 127.0.0.1 mike Loaded 2 bookies from bookies file: /Users/mike/web_home/neighpal/htdocs/uber/users/neighpal//static/bookies.dat
+19:34:36 127.0.0.1 mike Processing parameters...
+19:34:36 127.0.0.1 mike Read 59 parameters.
+19:34:36 127.0.0.1 mike attributes=20140922,,0900,New Race,
+19:34:36 127.0.0.1 mike Number of bets: 5
+19:34:36 127.0.0.1 mike Performing calculations on 5 bets.
+19:34:36 127.0.0.1 mike Finished performing calculations on 5 bets.
+19:34:36 127.0.0.1 mike Generating Betting page.
+19:34:36 127.0.0.1 mike Saved 5 bets to race file: /Users/mike/web_home/neighpal/htdocs/uber/users/neighpal//races/20140922__0900.dat
+19:34:36 127.0.0.1 mike Done.
+19:35:24 127.0.0.1 mike * QUERY_STRING race=open&fname=20140922__0900.dat
+19:35:24 127.0.0.1 mike read_login_file(username=)
+19:35:24 127.0.0.1 mike In session
+19:35:24 127.0.0.1 mike WARNING: Cannot load labels file: /Users/mike/web_home/neighpal/htdocs/uber/users/neighpal//static/labels.dat - using default labels
+19:35:24 127.0.0.1 mike Loaded 0 labels from labels file: /Users/mike/web_home/neighpal/htdocs/uber/users/neighpal//static/labels.dat
+19:35:24 127.0.0.1 mike Loaded 1 race indexes from race index file: /Users/mike/web_home/neighpal/htdocs/uber/users/neighpal//static/race_index.dat
+19:35:24 127.0.0.1 mike Loaded 2 bookies from bookies file: /Users/mike/web_home/neighpal/htdocs/uber/users/neighpal//static/bookies.dat
+19:35:24 127.0.0.1 mike Processing parameters...
+19:35:24 127.0.0.1 mike Read 59 parameters.
+19:35:24 127.0.0.1 mike attributes=20140922,,0900,New Race,
+19:35:24 127.0.0.1 mike Number of bets: 5
+19:35:24 127.0.0.1 mike Performing calculations on 5 bets.
+19:35:24 127.0.0.1 mike Finished performing calculations on 5 bets.
+19:35:24 127.0.0.1 mike Generating Betting page.
+19:35:24 127.0.0.1 mike Saved 5 bets to race file: /Users/mike/web_home/neighpal/htdocs/uber/users/neighpal//races/20140922__0900.dat
+19:35:24 127.0.0.1 mike Done.
+19:35:27 127.0.0.1 mike * QUERY_STRING page=logout
+19:35:27 127.0.0.1 mike read_login_file(username=)
+19:35:27 127.0.0.1 mike In session
+19:35:27 127.0.0.1 mike Logged out.
+19:35:27 127.0.0.1  * QUERY_STRING page=logout
+19:35:27 127.0.0.1  Generating Login page
+19:35:27 127.0.0.1  Done.
+19:37:23 127.0.0.1  * QUERY_STRING 
+19:37:23 127.0.0.1  Generating Login page
+19:37:23 127.0.0.1  Done.
+19:37:42 127.0.0.1  * QUERY_STRING 
+19:37:42 127.0.0.1  Generating Login page
+19:37:42 127.0.0.1  Done.
+19:37:55 127.0.0.1  * QUERY_STRING 
+19:37:55 127.0.0.1  Generating Login page
+19:37:55 127.0.0.1  Done.
+19:38:19 127.0.0.1  * QUERY_STRING 
+19:38:19 127.0.0.1  Generating Login page
+19:38:19 127.0.0.1  Done.
+19:38:22 127.0.0.1  * QUERY_STRING 
+19:38:22 127.0.0.1  Generating Login page
+19:38:22 127.0.0.1  Done.
+19:38:26 127.0.0.1  * QUERY_STRING 
+19:38:26 127.0.0.1  Generating Login page
+19:38:26 127.0.0.1  Done.
+19:39:56 127.0.0.1  * QUERY_STRING 
+19:39:56 127.0.0.1  Generating Login page
+19:39:56 127.0.0.1  Done.
+19:41:45 127.0.0.1  * QUERY_STRING 
+19:41:45 127.0.0.1  Generating Login page
+19:41:45 127.0.0.1  Done.
+19:41:47 127.0.0.1  * QUERY_STRING 
+19:41:47 127.0.0.1  Generating Login page
+19:41:47 127.0.0.1  Done.
+19:43:34 127.0.0.1  * QUERY_STRING 
+19:43:34 127.0.0.1  Generating Login page
+19:43:34 127.0.0.1  Done.
+19:43:43 127.0.0.1  * QUERY_STRING page=login
+19:43:43 127.0.0.1  previous_page()
+19:43:48 127.0.0.1  * QUERY_STRING page=login
+19:43:48 127.0.0.1  read_login_file(username=mike)
+19:43:48 127.0.0.1 mike Logged in.
+19:43:48 127.0.0.1 mike * QUERY_STRING page=login
+19:43:48 127.0.0.1 mike WARNING: Cannot load labels file: /Users/mike/web_home/neighpal/htdocs/uber/users/neighpal//static/labels.dat - using default labels
+19:43:48 127.0.0.1 mike Loaded 0 labels from labels file: /Users/mike/web_home/neighpal/htdocs/uber/users/neighpal//static/labels.dat
+19:43:48 127.0.0.1 mike Loaded 1 race indexes from race index file: /Users/mike/web_home/neighpal/htdocs/uber/users/neighpal//static/race_index.dat
+19:43:48 127.0.0.1 mike Loaded 2 bookies from bookies file: /Users/mike/web_home/neighpal/htdocs/uber/users/neighpal//static/bookies.dat
+19:43:48 127.0.0.1 mike Processing parameters...
+19:43:48 127.0.0.1 mike Read 4 parameters.
+19:43:48 127.0.0.1 mike Generating Index page
+19:43:48 127.0.0.1 mike Done.
+19:43:53 127.0.0.1 mike * QUERY_STRING race=open&fname=20140922__0900.dat
+19:43:53 127.0.0.1 mike read_login_file(username=)
+19:43:53 127.0.0.1 mike In session
+19:43:53 127.0.0.1 mike WARNING: Cannot load labels file: /Users/mike/web_home/neighpal/htdocs/uber/users/neighpal//static/labels.dat - using default labels
+19:43:53 127.0.0.1 mike Loaded 0 labels from labels file: /Users/mike/web_home/neighpal/htdocs/uber/users/neighpal//static/labels.dat
+19:43:53 127.0.0.1 mike Loaded 1 race indexes from race index file: /Users/mike/web_home/neighpal/htdocs/uber/users/neighpal//static/race_index.dat
+19:43:53 127.0.0.1 mike Loaded 2 bookies from bookies file: /Users/mike/web_home/neighpal/htdocs/uber/users/neighpal//static/bookies.dat
+19:43:53 127.0.0.1 mike Processing parameters...
+19:43:53 127.0.0.1 mike Read 2 parameters.
+19:43:53 127.0.0.1 mike Clicked link: Open (on Index page)
+19:43:53 127.0.0.1 mike Added new bet for [1] Neddie
+19:43:53 127.0.0.1 mike Added new bet for [2] Blackie
+19:43:53 127.0.0.1 mike Added new bet for [2] Blackie
+19:43:53 127.0.0.1 mike Added new bet for [3] Dobbin
+19:43:53 127.0.0.1 mike Added new bet for [4] Loser
+19:43:53 127.0.0.1 mike Loaded 5 bets from race file: /Users/mike/web_home/neighpal/htdocs/uber/users/neighpal//races/20140922__0900.dat
+19:43:53 127.0.0.1 mike attributes=20140922,,0900,New Race,
+19:43:53 127.0.0.1 mike Number of bets: 5
+19:43:53 127.0.0.1 mike Performing calculations on 5 bets.
+19:43:53 127.0.0.1 mike Finished performing calculations on 5 bets.
+19:43:53 127.0.0.1 mike Generating Betting page.
+19:43:53 127.0.0.1 mike Saved 5 bets to race file: /Users/mike/web_home/neighpal/htdocs/uber/users/neighpal//races/20140922__0900.dat
+19:43:53 127.0.0.1 mike Done.

@@ -9,7 +9,7 @@ Prototype betting odds manipulator
 
 To run neighpal in dev environment:
 
- - localhost/stol.uk/neighpal/cgi-bin/neighpal.cgi
+ - localhost/neighpal/cgi-bin/neighpal.cgi
 
 To release:
 
