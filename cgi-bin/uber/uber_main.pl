@@ -119,6 +119,7 @@ sub set_globals
         #$IMGROOT = "/uber/images";
         $IMGROOT = "../htdocs/uber/images/neighpal";
                 
+        # TODO: DATAROOT not acorrectly set for localhost - BUG
         $DATAROOT = "../htdocs/uber";
         $SENDMAIL = "/usr/sbin/sendmail -t";
     }
