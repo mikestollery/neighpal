@@ -1,0 +1,83 @@
+body 
+{
+    background-color: white;
+    color: black;
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 13px;
+    line-height: 17px;
+    margin: 0px;
+}
+
+.title
+{
+    background-color: white;
+    color: black;
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 17px;
+    margin: 5px;
+}
+
+table 
+{
+	border-collapse: collapse;
+    border: 0px solid gray;
+    color: Black;
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 11px;
+    text-align: left;
+    vertical-align: top;
+    padding-left: 20px;
+}
+
+
+td 
+{
+    background-color: white;
+    color: black;
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 13px;
+    line-height: 16px;
+    text-indent: 0px;
+    vertical-align: bottom;
+    padding-left: 5px;
+}
+
+.top
+{
+    background-color: white;
+    color: black;
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 13px;
+    line-height: 16px;
+    text-indent: 0px;
+    vertical-align: top;
+    padding-left: 5px;
+}
+
+.faint
+{
+    background-color: white;
+    color: gray;
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 9px;
+    line-height: 16px;
+    text-indent: 0px;
+    text-align: left;
+    vertical-align: bottom;
+    padding-right: 5px;
+}
+
+.copyright
+{
+    background-color: white;
+    color: gray;
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 9px;
+    line-height: 16px;
+    text-indent: 0px;
+    text-align: center;
+    vertical-align: bottom;
+    padding-right: 5px;
+}

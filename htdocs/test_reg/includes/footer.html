@@ -1,0 +1,30 @@
+<!-End of Content -->
+ </div>
+ 
+<div id="Menu">
+ <a href="index.php">Home</a><br />
+ 
+<?php # footer.html>
+ // This page completes the HTML template.
+ 
+// Display links based upon the login status.
+ // Show LOGIN links if this is the LOGOUT page.
+ if (isset($_SESSION['user_id']) AND
+ (substr($_SERVER['PHP_SELF'], -10)
+ != 'logout.php')) {
+    echo '<a href="logout.php">Logout</a><br /> <a href="change_password.php">Change Password</a><br />
+ ';
+ } else { // Not logged in.
+    echo ' <a href="register.php">
+    Register</a><br />
+ <a href="login.php">Login</a><br />
+ <a href="forgot_password.php">Forgot Password</a><br />
+ ';
+ }
+ ?>
+ <a href="some_page.php">Some Page</a><br />
+ <a href="another_page.php">Another Page</a><br />
+ </div>
+ </body> </html> <?php // Flush the buffered output.
+ ob_end_flush();
+ ?> 

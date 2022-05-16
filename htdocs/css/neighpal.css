@@ -1,0 +1,293 @@
+body 
+{
+    background-color: white;
+    color: black;
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 11px;
+    line-height: 17px;
+    margin: 0px;
+}
+
+h2 
+{
+    background-color: white;
+    color: black;
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    line-height: 17px;
+    margin: 5px;
+}
+
+table 
+{
+	border-collapse: collapse;
+    border: 0px solid gray;
+    color: Black;
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 11px;
+    text-align: left;
+    vertical-align: top;
+    padding-left: 20px;
+}
+
+table.banner
+{
+	border-collapse: collapse;
+    border: 0px solid gray;
+    color: Black;
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 11px;
+    text-align: left;
+    vertical-align: top;
+    padding-left: 0px;
+    width: 1100px;
+}
+
+#th 
+{
+    background-color: #fffff0;
+    color: #0000ff;
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+    line-height: 16px;
+    text-indent: 0px;
+    vertical-align: top;
+    padding-left: 5px;
+}
+
+th.bet
+{
+    background-color: #6060c0;
+    color: #ffff40;
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+    line-height: 16px;
+    text-indent: 0px;
+    text-align: left;
+    vertical-align: bottom;
+    padding-left: 5px;
+}
+
+th.margin
+{
+    background-color: white;
+    color: gray;
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+    line-height: 16px;
+    text-indent: 0px;
+    vertical-align: top;
+    padding-right: 5px;
+}
+
+td 
+{
+    background-color: white;
+    color: black;
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 11px;
+    line-height: 16px;
+    text-indent: 0px;
+    vertical-align: top;
+    padding-left: 5px;
+}
+
+td.banner
+{
+    background-color: #e0e0ff;
+    zzcolor: #f4f4ff;
+    color: #a0a040;
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 24px;
+    font-weight: normal;
+    font-style: italic;
+    line-height: 24px;
+    text-indent: 0px;
+    text-align: center;
+    vertical-align: middle;
+    zzwidth: 1200px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+td.margin
+{
+    background-color: white;
+    color: gray;
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 9px;
+    line-height: 16px;
+    text-indent: 0px;
+    vertical-align: top;
+    padding-right: 5px;
+}
+
+td.odd 
+{
+    background-color: #e0e0ff;
+    color: black;
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 11px;
+    line-height: 16px;
+    text-indent: 0px;
+    vertical-align: top;
+    padding-left: 5px;
+}
+
+td.even 
+{
+    background-color: #f4f4ff;
+    color: black;
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 11px;
+    line-height: 16px;
+    text-indent: 0px;
+    padding-left: 5px;
+}
+
+td.odd_grey 
+{
+    background-color: #f4f480;
+    color: gray;
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 11px;
+    line-height: 16px;
+    text-indent: 0px;
+    vertical-align: top;
+    padding-left: 5px;
+}
+
+td.even_grey 
+{
+    background-color: #f4f480;
+    color: gray;
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 11px;
+    line-height: 16px;
+    text-indent: 0px;
+    padding-left: 5px;
+}
+
+td.lastline
+{
+    background-color: white;
+    color: black;
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 9px;
+    line-height: 16px;
+    text-indent: 0px;
+    text-align: right;
+    vertical-align: bottom;
+    padding-right: 5px;
+}
+
+td.keycell
+{
+    background-color: white;
+    color: black;
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 16px;
+    text-indent: 0px;
+    text-align: right;
+    vertical-align: middle;
+    padding-right: 5px;
+}
+
+.sitetitle
+{
+    background-color: white;
+    color: blue;
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 16px;
+    text-indent: 0px;
+    text-align: center;
+    vertical-align: top;
+    padding-right: 5px;
+}
+
+.pagetitle
+{
+    background-color: white;
+    color: gray;
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 16px;
+    text-indent: 0px;
+    text-align: center;
+    vertical-align: top;
+    padding-right: 5px;
+}
+
+.racetitle
+{
+    background-color: white;
+    color: black;
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 16px;
+    text-indent: 0px;
+    text-align: center;
+    vertical-align: top;
+    padding-right: 5px;
+}
+
+.info
+{
+    background-color: white;
+    color: blue;
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 12px;
+    line-height: 16px;
+    text-indent: 0px;
+    text-align: left;
+    vertical-align: top;
+    padding-right: 5px;
+}
+
+.message
+{
+    background-color: #fffff0;
+    color: red;
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 11px;
+    line-height: 12px;
+    text-indent: 0px;
+    text-align: center;
+    vertical-align: top;
+    padding-right: 5px;
+}
+
+.faint
+{
+    background-color: white;
+    color: gray;
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 9px;
+    line-height: 16px;
+    text-indent: 0px;
+    text-align: left;
+    vertical-align: top;
+    padding-right: 5px;
+}
+
+.copyright
+{
+    background-color: white;
+    color: gray;
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 9px;
+    line-height: 16px;
+    text-indent: 0px;
+    text-align: center;
+    vertical-align: bottom;
+    padding-right: 5px;
+}

@@ -1,0 +1,432 @@
+BODY
+{
+    BORDER-RIGHT: 0px;
+    BORDER-TOP: 0px;
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 13px;
+    MARGIN: 0px;
+    BORDER-LEFT: 0px;
+    COLOR: #000000;
+    BORDER-BOTTOM: 0px;
+    FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif,"MS sans serif";
+    BACKGROUND-COLOR: #ffffff
+}
+TABLE
+{
+    FONT-SIZE: 13px;
+    BORDER-TOP: 20px;
+    FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif,"MS sans serif"
+}
+TR
+{
+    FONT-SIZE: 13px;
+    FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif,"MS sans serif"
+}
+TD
+{
+    FONT-SIZE: 13px;
+    FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif,"MS sans serif"
+}
+TABLE.submenu
+{
+    ALIGN: right;
+    TEXT-ALIGN: left;
+    FONT-SIZE: 13px;
+    BORDER-TOP: 20px;
+    MARGIN: 5px;
+    BACKGROUND-COLOR: #eeeeee;
+    FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif,"MS sans serif"
+}
+TH.submenu
+{
+    TEXT-ALIGN: left;
+    FONT-SIZE: 13px;
+    BACKGROUND-COLOR: #000000;
+    FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif,"MS sans serif"
+}
+TD.submenu
+{
+    FONT-SIZE: 11px;
+    FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif,"MS sans serif"
+}
+A.submenu:link
+{
+    COLOR: #000099;
+    FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif,"MS sans serif";
+    TEXT-DECORATION: none
+}
+A.submenu:visited
+{
+    COLOR: #6666cc;
+    FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif,"MS sans serif";
+    TEXT-DECORATION: none
+}
+A.submenu:active
+{
+    COLOR: #000099;
+    FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif,"MS sans serif";
+    TEXT-DECORATION: none
+}
+A.submenu:hover
+{
+    COLOR: #000099;
+    FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif,"MS sans serif";
+    TEXT-DECORATION: underline
+}
+B
+{
+    FONT-WEIGHT: bold
+}
+P
+{
+    FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif,"MS sans serif"
+}
+DIV
+{
+    FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif,"MS sans serif"
+}
+A
+{
+    FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif,"MS sans serif";
+    TEXT-DECORATION: none
+}
+FORM
+{
+    PADDING-RIGHT: 0px;
+    PADDING-LEFT: 0px;
+    PADDING-BOTTOM: 0px;
+    MARGIN: 0px;
+    PADDING-TOP: 0px
+}
+A:link
+{
+    COLOR: #000099;
+    FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif,"MS sans serif";
+    TEXT-DECORATION: none
+}
+A:visited
+{
+    COLOR: #6666cc;
+    FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif,"MS sans serif";
+    TEXT-DECORATION: none
+}
+A:active
+{
+    COLOR: #000099;
+    FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif,"MS sans serif";
+    TEXT-DECORATION: none
+}
+A:hover
+{
+    COLOR: #000099;
+    FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif,"MS sans serif";
+    TEXT-DECORATION: underline
+}
+
+.o
+{
+}
+.tbsh
+{
+    BACKGROUND-COLOR: #828282
+}
+.tbshl
+{
+    BORDER-LEFT: #828282 2px solid
+}
+.tbb_dep
+{
+    BACKGROUND: url(http://newsimg.bbc.co.uk/shared/img/v3_tb/v.gif) #999999 repeat-y
+}
+.tbs1
+{
+    BACKGROUND: url(http://newsimg.bbc.co.uk/shared/img/v3_tb/sl.gif) #000000 no-repeat
+}
+.tbs
+{
+    BACKGROUND: url(http://newsimg.bbc.co.uk/shared/img/v3_tb/st.gif) #000000 repeat-x
+}
+.tbs2
+{
+    BACKGROUND: url(http://newsimg.bbc.co.uk/shared/img/v3_tb/st.gif) #000000 repeat-x 0px 0px
+}
+.tbsra
+{
+    BACKGROUND: url(http://newsimg.bbc.co.uk/shared/img/v3_tb/sra.gif) #999999 no-repeat
+}
+.tbsrb
+{
+    BACKGROUND: url(http://newsimg.bbc.co.uk/shared/img/v3_tb/srb.gif) #999999 no-repeat
+}
+.tbbl
+{
+    BACKGROUND-COLOR: #000000
+}
+.tbg
+{
+    BACKGROUND-COLOR: #999999
+}
+.tbshl
+{
+    BACKGROUND-COLOR: #999999
+}
+.cap
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 10px;
+    COLOR: #666666
+}
+TD.sibt
+{
+    FONT-SIZE: 11px;
+}
+TD.sibtbg
+{
+    FONT-SIZE: 11px;
+    BACKGROUND-COLOR: #eeeedd
+}
+.mva
+{
+    MARGIN: 5px
+}
+.parenttitle
+{
+    FONT-SIZE: 11px;
+    COLOR: #cccccc;
+    FONT-WEIGHT: bold;
+    FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif,"MS sans serif";
+}
+A.parenttitle
+{
+    FONT-SIZE: 11px;
+    COLOR: #cccccc;
+    FONT-WEIGHT: bold;
+    FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif,"MS sans serif";
+}
+.pagetitle
+{
+    FONT-SIZE: 16px;
+    FONT-WEIGHT: bold;
+    FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif,"MS sans serif";
+}
+.poemtitle
+{
+    FONT-SIZE: 15px;
+    FONT-WEIGHT: bold;
+    COLOR: brown;
+    FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif,"MS sans serif";
+}
+.poemauthor
+{
+    FONT-SIZE: 11px;
+    FONT-STYLE: italic;
+    COLOR: gray;
+    FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif,"MS sans serif";
+}
+.scene
+{
+    FONT-SIZE: 16px;
+    FONT-WEIGHT: bold;
+    FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif,"MS sans serif";
+}
+.smallfont
+{
+    FONT-SIZE: 11px;
+    FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif,"MS sans serif"
+}
+.smallestfont
+{
+    FONT-SIZE: 9px;
+    COLOR: gray;
+    FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif,"MS sans serif"
+}
+.smallfontgray
+{
+    FONT-SIZE: 11px;
+    COLOR: gray;
+    FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif,"MS sans serif"
+}
+.smallfontbrown
+{
+    FONT-SIZE: 11px;
+    COLOR: brown;
+    FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif,"MS sans serif"
+}
+.formindex
+{
+    FONT-SIZE: 11px;
+    BACKGROUND-COLOR: #eeeedd;
+    FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif,"MS sans serif"
+}
+.formfield
+{
+    FONT-SIZE: 13px;
+    COLOR: brown;
+    FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif,"MS sans serif"
+}
+.maintitle
+{
+    FONT-SIZE: 15px;
+    FONT-WEIGHT: bold;
+    COLOR: blue;
+    PADDING-BOTTOM: 3px;
+    FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif,"MS sans serif"
+}
+.smalltitle
+{
+    FONT-SIZE: 13px;
+    FONT-WEIGHT: bold;
+    COLOR: blue;
+    PADDING-BOTTOM: 3px;
+    FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif,"MS sans serif"
+}
+.largetext
+{
+    FONT-SIZE: 13px;
+    FONT-WEIGHT: normal;
+    FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif,"MS sans serif"
+}
+A.largetext:link
+{
+    FONT-SIZE: 13px;
+    COLOR: #000000;
+    FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif,"MS sans serif";
+    TEXT-DECORATION: none
+}
+A.largetext:visited
+{
+    FONT-SIZE: 13px;
+    COLOR: #000000;
+    FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif,"MS sans serif";
+    TEXT-DECORATION: none
+}
+A.largetext:active
+{
+    FONT-SIZE: 13px;
+    COLOR: #000000;
+    FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif,"MS sans serif";
+    TEXT-DECORATION: none
+}
+A.largetext:hover
+{
+    FONT-SIZE: 13px;
+    COLOR: #000000;
+    FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif,"MS sans serif";
+    TEXT-DECORATION: underline
+}
+.mintitle
+{
+    FONT-WEIGHT: bold;
+}
+.min
+{
+    FONT-WEIGHT: bold;
+}
+.courier
+{
+    FONT-FAMILY: Courier,Verdana,Arial,Helvetica,sans-serif,"MS sans serif";
+}
+.boldtext
+{
+    FONT-SIZE: 13px;
+    FONT-WEIGHT: bold;
+    FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif,"MS sans serif"
+}
+.smalltext
+{
+    FONT-SIZE: 11px;
+    FONT-WEIGHT: normal;
+    FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif,"MS sans serif"
+}
+A.smalltext:link
+{
+    FONT-SIZE: 11px;
+    COLOR: #000099;
+    FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif,"MS sans serif";
+    TEXT-DECORATION: none
+}
+A.smalltext:visited
+{
+    FONT-SIZE: 11px;
+    COLOR: #6666cc;
+    FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif,"MS sans serif";
+    TEXT-DECORATION: none
+}
+A.smalltext:active
+{
+    FONT-SIZE: 11px;
+    COLOR: #000099;
+    FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif,"MS sans serif";
+    TEXT-DECORATION: none
+}
+A.smalltext:hover
+{
+    FONT-SIZE: 11px;
+    COLOR: #000099;
+    FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif,"MS sans serif";
+    TEXT-DECORATION: underline
+}
+.tinytext
+{
+    FONT-SIZE: 9px;
+    FONT-WEIGHT: normal;
+    FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif,"MS sans serif"
+}
+DIV.teenytext
+{
+    FONT-SIZE: 8px;
+    FONT-WEIGHT: normal;
+    COLOR: #aaaaaa;
+    FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif,"MS sans serif"
+}
+A.tinytext:link
+{
+    FONT-SIZE: 9px;
+    COLOR: #000099;
+    FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif,"MS sans serif";
+    TEXT-DECORATION: none
+}
+A.tinytext:visited
+{
+    FONT-SIZE: 9px;
+    COLOR: #6666cc;
+    FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif,"MS sans serif";
+    TEXT-DECORATION: none
+}
+A.tinytext:active
+{
+    FONT-SIZE: 9px;
+    COLOR: #000099;
+    FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif,"MS sans serif";
+    TEXT-DECORATION: none
+}
+A.tinytext:hover
+{
+    FONT-SIZE: 9px;
+    COLOR: #000099;
+    FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif,"MS sans serif";
+    TEXT-DECORATION: underline
+}
+TABLE.textbox
+{
+    WIDTH: 200px;
+    BORDER-RIGHT: 0px;
+    BORDER-TOP: 0px;
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 11px;
+    MARGIN: 10px;
+    BORDER-LEFT: 0px;
+    COLOR: #000000;
+    BORDER-BOTTOM: 0px;
+    FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif,"MS sans serif";
+    BACKGROUND-COLOR: #ffffff
+}
+TD.textbox
+{
+    FONT-SIZE: 11px;
+    BACKGROUND-COLOR: #eeeedd
+}
+.textbox
+{
+    MARGIN: 5px
+}
